@@ -3,13 +3,6 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import * as THREE from 'three'; // use three.js library
 
 
-// IMAGES
-
-import adelinaImage from './images/Adelina.png';
-import discoImage from './images/Disco.jpg';
-import normalImage from './images/Normal.jpg';
-import spaceImage from './images/Space.jpg';
-
 // SETUP
 
 const scene = new THREE.Scene(); // create scene
